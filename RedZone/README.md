@@ -12,7 +12,7 @@ Machine learning magic
 
 **What’s Inside?**
 
-accident_hotspot_ai/
+RedZone/
 
 ├── data/             # Input datasets (accidents, weather, roads)
 
