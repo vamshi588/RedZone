@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+geopandas
+folium
+requests
+joblib
+# For deep learning (optional, remove if not needed right now)
+torch
+torchvision
+tensorflow
+# For graph modeling (optional, remove if not needed right now)
+networkx
+# If using PyTorch Geometric later:
+# torch-geometric

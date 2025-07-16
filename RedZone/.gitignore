@@ -1,0 +1,16 @@
+# Ignore large data files
+data/*.csv
+
+# Ignore heavy HTML files
+outputs/*.html
+
+# Ignore model weights
+models/*.pkl
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env
