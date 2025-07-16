@@ -1,4 +1,4 @@
-**Accident Hotspot AI: Predict Road Accidents Before They Happen!**
+*RedZone
 
 What if we could spot dangerous road spots before an accident happens?
 This project uses AI + real-world data to do just that!
